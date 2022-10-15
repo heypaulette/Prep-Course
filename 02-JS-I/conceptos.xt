@@ -1,0 +1,21 @@
+Variables
+Almacenan el valor (no el nombre) de lo que vamos a usar, utilizamos la palabra var y un espacio luego su nombre y le asignamos valor con
+ = 
+ var = variable
+ let = se usa en un nivel de scope
+ const =  variable que se puede cambiar 
+
+
+Strings
+se utiliza para represetar y manipular una cadenas de caracteres 
+
+Funciones (argumentos, return)
+funcion es un procedimiento son como instrucciones
+argumento es un tipo especial de datos que contiene los valores de los argumentos que se han enviado ahi
+return finaliza la funcion y retorna los valores
+
+Declaraciones if
+if toma decisiones condicionales
+
+Valores booleanos (true, false)
+un vaor booleano es el que solo admite verdadero o falso
