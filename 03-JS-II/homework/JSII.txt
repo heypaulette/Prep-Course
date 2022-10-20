@@ -1,0 +1,10 @@
+Escribe explicaciones de los siguientes conceptos.Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+for for permite y REPITE una instrucción o una instrucción verdadera y la ejectura las veces que sean necesarias hasta que sea FALSE lo cual lo frenará.
+
+&& el operador AND convierte expresiones, variables o literales) en booleanos, seran true si AMBOS operadores son true 
+
+|| es el operador lógico OR devuelve el valor booleano TRUE si ALGUNA o ambos operandos son true y, de lo contrario, devuelven false 
+
+! es el operador lógico NOT (!) no realiza ninguna comparación como lo hacen los operadores AND y OR. Se usa para invertir un resultado lógica en una expresión
